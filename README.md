@@ -35,9 +35,6 @@ Clone the repository:
 git clone https://github.com/NANGIA70/Multimodal-Outfit-Recommendation-System.git  
 cd Multimodal-Outfit-Recommendation-System  
 
-Install dependencies:
-pip install -r requirements.txt  
-
 Run the application:
 docker-compose up --build  
 
